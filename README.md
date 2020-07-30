@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm David. I'm in an internship in Microsoft STC Asia. To know more about me, check my [personal website](https://dwlee-personal-website.netlify.app/) (I gonna update it these days...).
+
+If you like my projects, or any of my repositories helps you. Feel free to leave a star ⭐ I'll be appreciated 🤣.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=daviddwlee84&theme=prussian&show_icons=true&count_private=true">
+</p>
