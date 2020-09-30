@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm David. I'm in an internship in Microsoft STC Asia. To know more about me, check my [personal website](https://dwlee-personal-website.netlify.app/) (I gonna update it these days...).
+I'm David. I'm in an internship in Microsoft STC Asia. Recently, I got the return offer and going to become an FTE next year after graduation.
+To know more about me, check my [personal website](https://dwlee-personal-website.netlify.app/).
 
 If you like my projects, or any of my repositories helps you. Feel free to leave a star ⭐ I'll be appreciated 🤣.
 
