@@ -13,7 +13,10 @@ https://github-readme-stats.vercel.app/api/?username=[Username]&theme=prussian&s
 Github Trophy
 
 * [ryo-ma/github-profile-trophy: 🏆 Add dynamically generated GitHub Stat Trophies on your readme](https://github.com/ryo-ma/github-profile-trophy)
-* [Secret Trophies](https://github.com/ryo-ma/github-profile-trophy/blob/1213dfd9e213c8243d091a1988f936248970c2fb/src/trophy.ts#L106-L200)
+* Secret Trophies
+  * [Reference 1](https://github.com/ryo-ma/github-profile-trophy/blob/1213dfd9e213c8243d091a1988f936248970c2fb/src/trophy.ts#L106-L200)
+  * [Reference 2](https://github.com/ryo-ma/github-profile-trophy/blob/1213dfd9e213c8243d091a1988f936248970c2fb/src/trophy_list.ts#L31-L39)
+  * [Reference 3](https://github.com/ryo-ma/github-profile-trophy/blob/1213dfd9e213c8243d091a1988f936248970c2fb/src/user_info.ts#L70-L87)
 
 ## Note
 
