@@ -24,5 +24,6 @@ If you like my projects, or any of my repositories helps you. Feel free to leave
   <img src="https://github-readme-stats.vercel.app/api/?username=daviddwlee84&theme=prussian&show_icons=true&count_private=true">
 </p>
 
-<!-- Dark theme: https://github-profile-trophy.vercel.app/?username=daviddwlee84&theme=onedark -->
-[![github trophy](https://github-profile-trophy.vercel.app/?username=daviddwlee84)](https://github.com/ryo-ma/github-profile-trophy/)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daviddwlee84&row=2&column=4&margin-w=15&margin-h=10&theme=darkhub">
+</p>
