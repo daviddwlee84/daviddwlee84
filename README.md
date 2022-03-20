@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm David. I'm a Software Engineer in Microsoft STC Asia.
+I'm David. I'm a Software Engineer in <img src='./images/microsoft_logo.svg' style="width: 4em;">.
 To know more about me, check my [personal website](https://dwlee-personal-website.netlify.app/).
 
 If you like my projects, or any of my repositories helps you. Feel free to leave a star ⭐ I'll be appreciated 🤣.
@@ -23,3 +23,6 @@ If you like my projects, or any of my repositories helps you. Feel free to leave
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=daviddwlee84&theme=prussian&show_icons=true&count_private=true">
 </p>
+
+<!-- Dark theme: https://github-profile-trophy.vercel.app/?username=daviddwlee84&theme=onedark -->
+[![github trophy](https://github-profile-trophy.vercel.app/?username=daviddwlee84)](https://github.com/ryo-ma/github-profile-trophy/)
