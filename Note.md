@@ -18,6 +18,11 @@ Github Trophy
   * [Reference 2](https://github.com/ryo-ma/github-profile-trophy/blob/1213dfd9e213c8243d091a1988f936248970c2fb/src/trophy_list.ts#L31-L39)
   * [Reference 3](https://github.com/ryo-ma/github-profile-trophy/blob/1213dfd9e213c8243d091a1988f936248970c2fb/src/user_info.ts#L70-L87)
 
+Profile Views Counter
+
+* [antonkomarev/github-profile-views-counter: It counts how many times your GitHub profile has been viewed. Free cloud micro-service.](https://github.com/antonkomarev/github-profile-views-counter)
+* [Ÿ HŸPE](https://yhype.me/)
+
 ## Note
 
 * [About anonymized image URLs - GitHub Docs](https://docs.github.com/en/github/authenticating-to-github/about-anonymized-image-urls) - what is `https://camo.githubusercontent.com/...`

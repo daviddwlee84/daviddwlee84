@@ -27,3 +27,6 @@ If you like my projects, or any of my repositories helps you. Feel free to leave
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=daviddwlee84&row=2&column=4&margin-w=15&margin-h=10&theme=darkhub">
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=daviddwlee84&style=for-the-badge&label=Profile+Hits)
+[![](https://hit.yhype.me/github/profile?user_id=1515662)](https://yhype.me/github/profile-views)
