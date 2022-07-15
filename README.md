@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm David. I'm a Software Engineer in <img src='./images/microsoft_logo.svg' style="width: 4em;">.
+I'm David. I'm a Data & Applied Scientist in <img src='./images/microsoft_logo.svg' style="width: 4em;">.
 To know more about me, check my [personal website](https://dwlee-personal-website.netlify.app/).
 
 If you like my projects, or any of my repositories helps you. Feel free to leave a star ⭐ I'll be appreciated 🤣.
